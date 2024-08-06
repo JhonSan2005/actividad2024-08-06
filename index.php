@@ -1,8 +1,13 @@
-<h1> imagenes en la carpeta img</h1>
+<h2> imagenes en la carpeta img</h2>
 
 
-<p> Calificador Jhon Hnery Sanchez</p>
+<h1> Calificador Jhon Henry Sanchez</h1>
 
-<h5> La expocicion del grupo de Newwins estuvo buena la exposicion pero se puede mejorara
-    mi claificacion 8/10
+<p>Calificando a :Julian Mendez , Sebastian Amaya </p>
+
+
+
+<h5> Mi opinion La exposición del grupo de NewWins estuvo buena la exposición, pero se puede mejorara
+    mi clasificación 8/10
+
 </h5>
